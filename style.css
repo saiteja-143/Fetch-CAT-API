@@ -1,0 +1,24 @@
+
+img{
+    width: 400px;
+    height: 300px;
+    justify-content: center;
+    border-radius: 600px;
+    
+}
+
+body{
+    
+    background-color: rgb(224, 201, 106);
+    background: linear-gradient(to left, lightgreen, grey);
+}
+
+
+.card{
+
+    margin-top: 30px;
+    background: linear-gradient(to left, lightgreen, grey);    
+    background: rgb(201, 100, 231);
+    line-height: 80px;
+    
+}
